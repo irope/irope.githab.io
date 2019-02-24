@@ -1,0 +1,110 @@
+body {
+  width: 450px;
+  margin: 0;
+  padding: 10px;
+  background-color:#000000;
+  font-size: 14px;
+  font-family: "Arial", sans-serif;
+  color:white;    
+}
+
+
+.logo,
+.ssilki,
+.contacts,
+.main-menu,
+.footer,
+.picture,
+.project,
+.problem
+.mens,
+.our{
+  padding: 10px 20px 10px 20px;
+
+  background-color: #000000;
+  border: 2px solid #cccccc;
+}
+
+/* Собственные стили блоков */
+
+.logo {
+  float: left;
+  width: 900px;
+  text-align: center;
+     font-size: 50px;
+    height:190px;
+    padding-bottom:-80px;    
+}
+.ssilki {
+  float: left;
+  width: 900px;
+  text-align: center;
+     font-size: 25px;
+    height:40px;
+    padding-bottom:-80px;    
+}
+.about-us {
+     float: left;
+  width: 900px;
+  text-align: center;
+    height:160px;
+    padding-top:-150px;
+    }
+
+.about-us p {
+  font-size: 40px;
+    
+}
+
+.main-menu {
+  width: 400px;
+    margin-top: 0px;
+}
+
+.footer {
+margin-top: 5000px;
+}
+.picture{
+    width:900px;
+    height:20px;
+    font-size: 15px;
+     text-align: center;
+   vertical-align: text-top;
+}
+.project{
+   float: left;
+  width: 900px;
+  text-align: center;
+     margin-top: 100px;
+}
+.problem{
+    padding-left:150px;
+   float: left;
+  width: 500px;
+    margin-top: 100px;
+     text-align: left;
+}
+img{
+    width:600px;
+    padding-left: 180px;
+}
+.project p{
+font-size: 40px;
+}
+.problem p{
+    font-size: 30px;
+    
+}
+.problem p{
+ 
+    background: linear-gradient(120deg, pink,blue);
+  -webkit-background-clip: text;  
+    color: transparent;
+}
+.mens{
+    width:900px;
+    text-align:center;
+}
+    .our{
+        width:400px;
+    }
